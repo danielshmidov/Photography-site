@@ -284,6 +284,13 @@ menu-check {
   text-align: center;
 }
 
+/* Contact Section */
+.contact {
+  min-height: 90vh;
+  display: flex;
+  flex-wrap: wrap;
+}
+
 @media screen and (max-width: 842px) {
   .hero {
     width: 100%;
