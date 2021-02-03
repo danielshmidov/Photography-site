@@ -133,6 +133,7 @@ main {
 }
 .hero-introduction p {
   padding: 5rem 10rem;
+  color: var(--gray-text);
 }
 .hero-introduction a {
   padding: 2rem 8rem;
