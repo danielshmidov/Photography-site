@@ -132,6 +132,8 @@ main {
 }
 .hero-introduction a {
   padding: 2rem 8rem;
+  border: 3px solid black;
+  margin-bottom: 4rem;
 }
 
 .hero-elena {
